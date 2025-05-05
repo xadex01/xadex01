@@ -24,6 +24,8 @@
 - Skilled in using data science tools for development planning, public finance, education, WASH, and social protection  
 
 ---
+📚 **Lecture Notes**  
+**👉 [Click here to access my lecture notes](https://xadex01.github.io/Lecture_Note/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
